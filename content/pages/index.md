@@ -273,7 +273,7 @@ sections:
       text:
         textAlign: left
   - logos:
-      - name: 'Logo #1'
+      - name: First Logo
         image: /images/about.jpg
       - name: lorem-ipsum
       - name: 'Logo #2'
