@@ -1,7 +1,7 @@
 {
     "model": "LogoSection",
     "presets": [{
-            "label": "My Logo Section",
+            "label": "Default",
             "thumbnail": "images/logo-section-default.png",
             "data": {
                 "colors": "colors-c"
