@@ -5,7 +5,7 @@ const LogoSection = (props) => {
             <h1 className="text-3xl tracking-tight sm:text-4xl mb-2" data-sb-field-path=".title">{title}</h1>
             <div className="flex justify-center items-center" data-sb-field-path=".logos">
                 {logos.map((logo, index) => (
-                    <div className="p-6" key={index} data-sb-field-path={``}>
+                    <div className="p-6" key={index} data-sb-field-path={`.${index}`}>
                         <img className="mb-2" height="60px" width="60px" src={logo.image} data-sb-field-path=".image.url#@src" />
                         <h2 className="text-sm text-gray-400" data-sb-field-path=".name">{logo.name}</h2>
                     </div>
