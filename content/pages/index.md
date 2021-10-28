@@ -65,9 +65,6 @@ sections:
           - mb-8
       actions:
         justifyContent: flex-start
-  - title: My Logo Section
-    logos: []
-    type: LogoSection
   - type: FeaturedPostsSection
     variant: variant-c
     colors: colors-c
