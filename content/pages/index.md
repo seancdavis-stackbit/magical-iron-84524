@@ -275,5 +275,6 @@ sections:
   - title: My Logo Section
     logos:
       - name: lorem-ipsum
+        image: /images/about.jpg
     type: LogoSection
 ---
