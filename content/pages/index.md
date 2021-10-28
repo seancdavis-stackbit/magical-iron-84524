@@ -68,9 +68,6 @@ sections:
   - title: My Logo Section
     logos: []
     type: LogoSection
-  - title: My Logo Section
-    logos: []
-    type: LogoSection
   - type: FeaturedPostsSection
     variant: variant-c
     colors: colors-c
