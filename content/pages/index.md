@@ -276,5 +276,6 @@ sections:
     logos:
       - name: 'Logo #1'
         image: /images/about.jpg
+      - name: lorem-ipsum
     type: LogoSection
 ---
