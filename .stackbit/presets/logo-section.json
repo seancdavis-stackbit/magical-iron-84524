@@ -4,8 +4,7 @@
             "label": "Default Logo Section",
             "thumbnail": "images/logo-section-default.png",
             "data": {
-                "title": "My Logo Section",
-                
+                "title": "My Logo Section"
             }
         }
     ]
