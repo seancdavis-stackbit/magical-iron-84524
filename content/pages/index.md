@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Hello World
 layout: PageLayout
 sections:
   - type: HeroSection
