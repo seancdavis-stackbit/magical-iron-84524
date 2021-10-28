@@ -4,7 +4,8 @@
             "label": "Default Logo Section",
             "thumbnail": "images/logo-section-default.png",
             "data": {
-                "colors": "colors-c"
+                "title": "My Logo Section",
+                
             }
         }
     ]
