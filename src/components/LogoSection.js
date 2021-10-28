@@ -3,7 +3,7 @@ const LogoSection = (props) => {
     return (
         <div className="max-w-screen-xl mx-auto px-4 sm:px-6 py-14 lg:py-20 mt-10 mb-10 text-center" data-sb-field-path={props.annotationPrefix}>
             <h1 className="text-3xl tracking-tight sm:text-4xl mb-2" data-sb-field-path=".title">{title}</h1>
-            <div className="flex justify-center items-center">
+            <div className="flex justify-center items-center" data-sb-field-path="">
                 {logos.map((logo, index) => (
                     <div className="p-6" key={index}>
                         <img className="mb-2" height="60px" width="60px" src={logo.image} />
