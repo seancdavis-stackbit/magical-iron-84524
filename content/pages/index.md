@@ -274,4 +274,5 @@ sections:
         textAlign: left
   - logos: []
     type: LogoSection
+    title: Logo Section
 ---
