@@ -276,6 +276,7 @@ sections:
       - name: First Logo
         image: /images/about.jpg
       - name: lorem-ipsum
+        image: /images/hero.png
       - name: 'Logo #2'
         image: /images/dianne-ameter.jpg
     type: LogoSection
