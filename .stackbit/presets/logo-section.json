@@ -1,5 +1,5 @@
 {
-    "model": "Logo",
+    "model": "LogoSection",
     "presets": [{
             "label": "Dark",
             "thumbnail": "images/text-section-dark.png",
