@@ -277,5 +277,6 @@ sections:
       - name: 'Logo #1'
         image: /images/about.jpg
       - name: 'Logo #2'
+        image: /images/hero.png
     type: LogoSection
 ---
