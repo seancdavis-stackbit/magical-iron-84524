@@ -7,7 +7,7 @@ const LogoSection = (props) => {
                 {logos.map((logo, index) => (
                     <div className="p-6" key={index}>
                         <img className="mb-2" height="60px" width="60px" src={logo.image} />
-                        <h2 className="text-sm text-gray-400">{logo.name}</h2>
+                        <h2 className="text-sm text-gray-400" data-sb-field-path=".name">{logo.name}</h2>
                     </div>
                 ))}
             </div>
