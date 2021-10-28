@@ -276,6 +276,7 @@ sections:
       - name: 'Logo #1'
         image: /images/about.jpg
       - name: 'Logo #2'
+        image: /images/dianne-ameter.jpg
     type: LogoSection
     title: Logo Section
 ---
