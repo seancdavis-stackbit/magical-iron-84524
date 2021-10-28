@@ -2,7 +2,7 @@
     "model": "LogoSection",
     "presets": [{
             "title": "My Logo Section",
-            "thumbnail": "images/text-section-dark.png",
+            "thumbnail": "images/logo-section-default.png",
             "data": {
                 "colors": "colors-c"
             }
