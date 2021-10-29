@@ -9,6 +9,7 @@ registerComponents({
 
     // Override any static or dynamic component,
     // or register your own dynamic component.
+    LogoSection,
     LogoSection
 });
 
