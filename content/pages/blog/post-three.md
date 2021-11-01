@@ -1,32 +1,38 @@
 ---
 title: Post Title Three
 layout: PostLayout
-date: "2021-07-01"
+date: '2021-07-01'
 author: content/data/team/hilary-ouse.json
-excerpt: |-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh.
+excerpt: >-
+  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
+  Donec sed facilisis nibh.
 featuredImage:
   type: ImageBlock
-  url: "/images/post-2.jpeg"
-  altText: "Post Image"
+  url: /images/dianne-ameter.jpg
+  altText: Post Image
 bottomSections:
   - type: CtaSection
     colors: colors-e
     backgroundWidth: full
     title: Let's do this
-    text: |-
-      The Stackbit theme is flexible and scalable to every need. It can manage any layout and any screen.
+    text: >-
+      The Stackbit theme is flexible and scalable to every need. It can manage
+      any layout and any screen.
     actions:
       - type: Button
         label: Get Started
-        url: "https://www.stackbit.com/"
+        url: 'https://www.stackbit.com/'
         style: primary
     styles:
       self:
         height: auto
         width: wide
-        margin: ["mt-0", "mb-0"]
-        padding: ["pt-12", "pb-12"]
+        margin:
+          - mt-0
+          - mb-0
+        padding:
+          - pt-12
+          - pb-12
         alignItems: center
         justifyContent: center
         flexDirection: row
