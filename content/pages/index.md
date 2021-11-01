@@ -67,7 +67,7 @@ sections:
         justifyContent: flex-start
   - title: My Logo Section
     logos:
-      - name: lorem-ipsum
+      - name: 'Logo #1'
         image: /images/contact.png
     type: LogoSection
   - type: FeaturedPostsSection
