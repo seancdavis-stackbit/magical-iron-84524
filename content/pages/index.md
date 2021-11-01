@@ -68,6 +68,7 @@ sections:
   - title: My Logo Section
     logos:
       - name: lorem-ipsum
+        image: /images/contact.png
     type: LogoSection
   - type: FeaturedPostsSection
     variant: variant-c
