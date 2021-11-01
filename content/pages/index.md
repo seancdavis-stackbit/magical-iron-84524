@@ -66,7 +66,8 @@ sections:
       actions:
         justifyContent: flex-start
   - title: My Logo Section
-    logos: []
+    logos:
+      - name: lorem-ipsum
     type: LogoSection
   - type: FeaturedPostsSection
     variant: variant-c
